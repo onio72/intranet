@@ -1,0 +1,972 @@
+{
+  "users": [
+    {
+      "email": "maguher333@g.educaand.es",
+      "nombre": "Aguilar Herrera, Mar�a Isabel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "aajelop878@g.educaand.es",
+      "nombre": "Ajenjo L�pez, Agust�n",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "aalcpar260@g.educaand.es",
+      "nombre": "Alcedo Paredes, Ainhoa",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jalgala690@g.educaand.es",
+      "nombre": "Algarra Alarc�n, Jes�s",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "iandjim483@g.educaand.es",
+      "nombre": "Andrade Jim�nez, Inmaculada Concepci�n",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "vareler519@g.educaand.es",
+      "nombre": "Ares Lerate, Vanessa",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "ebenfer834@g.educaand.es",
+      "nombre": "Benot Ferr�n, Esperanza Macarena",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "gberesp610@g.educaand.es",
+      "nombre": "Berraquero Espartero, Guadalupe Monta�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mblagra034@g.educaand.es",
+      "nombre": "Blasco Granados, Mar�a de Gu�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mblagra034@g.educaand.es",
+      "nombre": "Blasco Granados, Mar�a de Gu�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "lblagam553@g.educaand.es",
+      "nombre": "Bl�zquez G�mez, Luc�a Mar�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jboncar141@g.educaand.es",
+      "nombre": "Bonilla Carmona, Julia Bel�n",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": false
+    },
+    {
+      "email": "cborval927@g.educaand.es",
+      "nombre": "Borrallo Valiente, Clara",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "ecabmar186@g.educaand.es",
+      "nombre": "Cabrera Mart�nez, Mar�a Esperanza",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jcabrod934@g.educaand.es",
+      "nombre": "Cabrera Rodr�guez, Jos� Antonio",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "acalrod715@g.educaand.es",
+      "nombre": "Calero Rodr�guez, Antonio",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mcalsal687@g.educaand.es",
+      "nombre": "Calleja Salado, Manuel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "ccarmon120@g.educaand.es",
+      "nombre": "Carretero Montero, Carlos Luis",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mcerros922@g.educaand.es",
+      "nombre": "Cerero De la Rosa, Mar�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mcorher739@g.educaand.es",
+      "nombre": "Corvillo Hern�ndez, Mar�a Dolores",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "fdelcer775@g.educaand.es",
+      "nombre": "Delgado Cera, Fernando Jes�s",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "fdiajim547@g.educaand.es",
+      "nombre": "D�az Jim�nez, Francisco Jose",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "pdommel581@g.educaand.es",
+      "nombre": "Dom�nguez Mellado, Pedro Jose",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mdompol399@g.educaand.es",
+      "nombre": "Dom�nguez Polvillo, Mar�a Oliva",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "aexport224@g.educaand.es",
+      "nombre": "Exp�sito Ortega, Ana Mar�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "sfarsan749@g.educaand.es",
+      "nombre": "Faraco S�nchez, Sergio",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "tfercot327@g.educaand.es",
+      "nombre": "Fern�ndez Cotrina, Tom�s",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jferlop654@g.educaand.es",
+      "nombre": "Fernandez L�pez, Jos� Antonio",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jferluc644@g.educaand.es",
+      "nombre": "Fernandez Lucena, Jos�",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mfermar073@g.educaand.es",
+      "nombre": "Fernandez Mart�n, Miguel �ngel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "eflogal161@g.educaand.es",
+      "nombre": "Flores Galea, Elena Clementina",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "egarcan308@g.educaand.es",
+      "nombre": "Garc�a Canseco, El�as",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "lgartor595@g.educaand.es",
+      "nombre": "Garc�a del Toro, Luisa",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "dgargal948@g.educaand.es",
+      "nombre": "Garc�a Gallardo, Domingo Concepci�n",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mgarhoy199@g.educaand.es",
+      "nombre": "Garc�a Hoyo, Miguel �ngel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jgarjim399@g.educaand.es",
+      "nombre": "Garc�a Jim�nez, Jos� Luis",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "agarlop346x@g.educaand.es",
+      "nombre": "Garc�a L�pez, Alberto",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "igarmar679y@g.educaand.es",
+      "nombre": "Garc�a Marassa, Israel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jgarmun662r@g.educaand.es",
+      "nombre": "Garc�a Mu�oz, Juan Antonio",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "xgarule910@g.educaand.es",
+      "nombre": "Garc�a Ulecia, Xiomara Miriam",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "nger107@g.educaand.es",
+      "nombre": "Gerard Duigou, Nadine",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jgimitu474@g.educaand.es",
+      "nombre": "Gim�nez Iturralde, Javier",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "agomcap403@g.educaand.es",
+      "nombre": "G�mez Capote, Ana Mar�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "agommar983@g.educaand.es",
+      "nombre": "G�mez Mart�n, Asunci�n",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mgomsol412@g.educaand.es",
+      "nombre": "G�mez Soldado, Mar�a Jes�s",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "agongar897s@g.educaand.es",
+      "nombre": "Gonz�lez Garc�a, Antonio",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": true,
+      "tutora": true
+    },
+    {
+      "email": "ggonlop297@g.educaand.es",
+      "nombre": "Gonz�lez L�pez, Gregoria",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "egonrui010@g.educaand.es",
+      "nombre": "Gonz�lez Ruiz, Emma",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mgorriv685@g.educaand.es",
+      "nombre": "Gordillo Rivera, Mar�a Isabel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "fguemun007@g.educaand.es",
+      "nombre": "Guerra Mu�oz, Francisco Javier",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mguiciv257@g.educaand.es",
+      "nombre": "Guirado Civantos, Marta",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "igutsae693@g.educaand.es",
+      "nombre": "Guti�rrez S�ez, Isabel Mar�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "fgutvaz829@g.educaand.es",
+      "nombre": "Guti�rrez V�zquez, Francisco Jos�",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jhergar961@g.educaand.es",
+      "nombre": "Herrera Garc�a, Jes�s",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jhursot539@g.educaand.es",
+      "nombre": "Hurtado Soto, Jos� Mar�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "aizqrob477@g.educaand.es",
+      "nombre": "Izquierdo Robles, �lvaro Ernesto",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "sjarmar312@g.educaand.es",
+      "nombre": "Jara Mart�nez, Sira",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "fjimgav523@g.educaand.es",
+      "nombre": "Jim�nez Gavil�n, Francisco",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "ejimjim888@g.educaand.es",
+      "nombre": "Jim�nez Jim�nez, Esperanza Macarena",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "fkarrod675@g.educaand.es",
+      "nombre": "Karmi Rodr�guez, F�tima",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mlimech019@g.educaand.es",
+      "nombre": "Lim�n Echevarr�a, Mar�a del Carmen",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "alincab776@g.educaand.es",
+      "nombre": "Linares Cabrera, Antonio Marcos",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "alopcor638@g.educaand.es",
+      "nombre": "L�pez Coronado, Agust�n",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mlopper284@g.educaand.es",
+      "nombre": "L�pez P�rez, Manuel �ngel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mlopvin950@g.educaand.es",
+      "nombre": "L�pez Vi�as, Mar�a Jos�",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "amactej2212@g.educaand.es",
+      "nombre": "Mac�a Tejea, Alba",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "cmacgon695@g.educaand.es",
+      "nombre": "Mac�as Gonz�lez, Concepci�n Roc�o",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mmangar835@g.educaand.es",
+      "nombre": "Manzano Garc�a, Mar�a del Pilar",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": true,
+      "tutora": true
+    },
+    {
+      "email": "mmargut626@g.educaand.es",
+      "nombre": "Marcos Guti�rrez, M�nica Mar�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "lmarmar376@g.educaand.es",
+      "nombre": "Mart�n Mart�nez, Laura",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jmarmig285@g.educaand.es",
+      "nombre": "Mart�n Migez, Jos� Manuel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "smaralf373@g.educaand.es",
+      "nombre": "Mart�nez Alfaro, Sonia",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "nmarlin076@g.educaand.es",
+      "nombre": "Mart�nez Linares, Noelia",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "imedgar791@g.educaand.es",
+      "nombre": "Medina Garc�a, Inmaculada Carolina",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "fmursan494@g.educaand.es",
+      "nombre": "Murube S�nchez-Malo, F�tima",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jnavrei686@g.educaand.es",
+      "nombre": "Navarro Reina, Jose Luis",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": true,
+      "tutora": true
+    },
+    {
+      "email": "jocasan313@g.educaand.es",
+      "nombre": "Oca�a S�nchez, Jose Giordano",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "roliram409@g.educaand.es",
+      "nombre": "Oliva Ram�rez, Rosario",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "ronobar357@g.educaand.es",
+      "nombre": "O�oro Barba, Roc�o",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "fpaldia236@g.educaand.es",
+      "nombre": "Palacios D�az, F�tima",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "rpaldia768@g.educaand.es",
+      "nombre": "Palacios D�az, Rafael",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mpalmun830@g.educaand.es",
+      "nombre": "Palomo Mu�oz, Mar�a Nieves",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mpargon780@g.educaand.es",
+      "nombre": "Paradas Gonz�lez, Mar�a del Roc�o",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jpayjim908@g.educaand.es",
+      "nombre": "Pay�n Jim�nez, Jose Manuel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": true,
+      "tutora": true
+    },
+    {
+      "email": "mpercha185@g.educaand.es",
+      "nombre": "P�rez Chamorro, Mar�a Isabel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "dpergon117@g.educaand.es",
+      "nombre": "P�rez Gonz�lez, Dolores",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mpermor301@g.educaand.es",
+      "nombre": "P�rez Mor�n, Magdalena de los Reyes",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "spraalv422@g.educaand.es",
+      "nombre": "Prats �lvarez, Susana",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mquican748@g.educaand.es",
+      "nombre": "Quiroga Cantero, Mar�a Encarnaci�n",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "cramque266@g.educaand.es",
+      "nombre": "Ram�rez Quevedo, Cristina",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "pramvil322@g.educaand.es",
+      "nombre": "Ramos Vila, Patricia",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "cregver677@g.educaand.es",
+      "nombre": "Regife Vera, Claudia",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "crivpri815@g.educaand.es",
+      "nombre": "Rivas Prieto, Carmen",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mrivvis809@g.educaand.es",
+      "nombre": "Rivera del Viso, Mar�a Teresa",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mrodcam833@g.educaand.es",
+      "nombre": "Rodr�guez Camino, Mar�a del Roc�o",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jrodgom812@g.educaand.es",
+      "nombre": "Rodr�guez G�mez, Juan Manuel",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "srodmas120@g.educaand.es",
+      "nombre": "Rodr�guez Mas, Silvia",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "irolnar386@g.educaand.es",
+      "nombre": "Rold�n Naranjo, Inmaculada Araceli",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mromtor803@g.educaand.es",
+      "nombre": "Romero Del Toro, Mar�a Jos�",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jrommar230@g.educaand.es",
+      "nombre": "Romero Mart�nez, Jos� Mois�s",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "cruapav343@g.educaand.es",
+      "nombre": "Ruano Pav�n, Carmen Pilar",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "lrubram307@g.educaand.es",
+      "nombre": "Rubio Ramos, Laura",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jruibla711@g.educaand.es",
+      "nombre": "Ruiz Blanco, Juana",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "aruidom256@g.educaand.es",
+      "nombre": "Ruiz Dom�nguez, Ana Mercedes",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "aruimar972v@g.educaand.es",
+      "nombre": "Ruiz Mart�n, Ana Mar�a",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "isanbel978@g.educaand.es",
+      "nombre": "San Mart�n Bel, Ignacio",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "msanpen476@g.educaand.es",
+      "nombre": "S�nchez Pe�a, Mar�a �ngeles",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "jsanper986@g.educaand.es",
+      "nombre": "S�nchez P�rez, Jorge David",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "msancan337@g.educaand.es",
+      "nombre": "Santos Cano, Mar�a Dolores",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "msedare137@g.educaand.es",
+      "nombre": "Sedano Ar�valo, Mar�a Esther",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "dsegper751@g.educaand.es",
+      "nombre": "Segarra P�rez, David",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "msiemen629@g.educaand.es",
+      "nombre": "Sierra Men�ndez, Mar�a Ver�nica",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mtordie294@g.educaand.es",
+      "nombre": "Torralba Di�guez, Mar�a Inmaculada",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mtormon878@g.educaand.es",
+      "nombre": "Torres Montero, Mar�a Jos�",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "ptovesp245@g.educaand.es",
+      "nombre": "Tovar Espartero, Purificaci�n",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "svalper995@g.educaand.es",
+      "nombre": "Valencia P�rez, Sergio",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "rvalcal709@g.educaand.es",
+      "nombre": "Valle Calvillo, Rosa Ana del",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mvazlar101@g.educaand.es",
+      "nombre": "V�zquez Larrarte, Mar�a Teresa",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "mvazsan883@g.educaand.es",
+      "nombre": "V�zquez S�nchez, Mar�a Carmen",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "cvegcas739@g.educaand.es",
+      "nombre": "Vega Castilla, Coradino de la",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    },
+    {
+      "email": "rvegpen616@g.educaand.es",
+      "nombre": "Vega Pe�a, Ra�l",
+      "rol": "profesor",
+      "activo": true,
+      "jefe_estudios": false,
+      "tutora": true
+    }
+  ]
+}
